@@ -12,7 +12,7 @@ This project is a fork of [一日一創2012](https://fukuno.jig.jp/2012/monoslid
 
 ## Demo
 
-Try it live: **https://code4fukui.github.io/monoslide/**
+Try it live: **https://github.com/code4fukui/monoslide
 
 ## Features
 

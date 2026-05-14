@@ -8,7 +8,7 @@ monoslideは、8ビットの数値を可視化するインタラクティブなW
 
 ## デモ
 
-ブラウザでお試しください: **https://code4fukui.github.io/monoslide/**
+ブラウザでお試しください: **https://github.com/code4fukui/monoslide
 
 ## 機能
 
